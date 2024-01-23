@@ -1,0 +1,13 @@
+.container {
+    width: 25%;
+    height: 100%;
+    float: left;
+    font-family: Arial;
+}
+
+#map{
+    height: 97vh;
+    width: 75%;
+    display: inline-block;
+    float: left;
+}
